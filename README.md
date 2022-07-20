@@ -21,14 +21,12 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
 ## Contact
 [![LINKEDIN](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-linkedin-50.png)](https://www.linkedin.com/in/zayra-velasco)
 [![MAIL](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-añadir-sobre-abierto-50.png)](mailto:zayra.contacto@gmail.com)
-               <a
-                href="mailto:zayra.contacto@gmail.com"
-                target="_blank"
-                rel="noopener noreferrer">![icons8-añadir-sobre-abierto-50](https://user-images.githubusercontent.com/95602965/179907815-7efc05c4-51b3-485d-8cfe-4dc5f5e33ed3.png)</a>
   
 ## Projects
 [![PATIENTS REGISTER](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-plan-de-tratamiento-50.png)](https://github.com/zayrarepositor/patients-register-2022)
 [![POKEMONS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-pokeball-50.png)](https://github.com/zayrarepositor/PIpokemons)
 [![BUDGET](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-vista-frontal-del-monedero-50.png)](https://github.com/zayrarepositor/budget-app-2022)
 
+## Stats
 
+[![STATS](https://github-readme-stats.vercel.app/api?username=zayrarepositor)](https://github.com/anuraghazra/github-readme-stats)
