@@ -1,5 +1,4 @@
-
-[![](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif)](https://www.linkedin.com/in/zayra-velasco)
+<a href="https://www.linkedin.com/in/zayra-velasco"><div style="padding-top:75.000%;position:relative;"><iframe src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div></a>
 
 ## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
 
@@ -28,5 +27,4 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
 [![BUDGET](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-vista-frontal-del-monedero-50.png)](https://github.com/zayrarepositor/budget-app-2022)
 
 ## Stats
-
-[![STATS](https://github-readme-stats.vercel.app/api?username=zayrarepositor)](https://github.com/anuraghazra/github-readme-stats)
+[![STATS](https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
