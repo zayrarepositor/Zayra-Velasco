@@ -2,6 +2,13 @@
 
 ## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
 
+## <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture> About me
+
+
 Eternal student motivated by education, innovation, health, art, philosophy... and development!! I am extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world. Actually I am looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
 
 ## Tech skills
