@@ -3,8 +3,10 @@
 ## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
 
 ## <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50b.png">
+  <source media="(prefers-color-scheme: dark_dimmed)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
+  <source media="(prefers-color-scheme: dark_high_contrast)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
+   <source media="(prefers-color-scheme: dark_colorblind)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
+    <source media="(prefers-color-scheme: dark_tritanopia)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
   <img alt="about" src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50b.png">
 </picture> About me
 
