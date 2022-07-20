@@ -2,13 +2,13 @@
 
 ## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
 
-## <picture>
+## <picture title="About me">
   <source media="(prefers-color-scheme: dark_dimmed)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
   <source media="(prefers-color-scheme: dark_high_contrast)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
    <source media="(prefers-color-scheme: dark_colorblind)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
     <source media="(prefers-color-scheme: dark_tritanopia)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
   <img alt="about" src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50b.png">
-</picture> About me
+</picture> 
 
 
 Eternal student motivated by education, innovation, health, art, philosophy... and development!! I am extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world. Actually I am looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
