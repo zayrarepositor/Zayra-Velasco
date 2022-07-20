@@ -1,17 +1,8 @@
+<div style="background-color:#333333">
+  
 <a href="https://www.linkedin.com/in/zayra-velasco"><div style="padding-top:75.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div></a>
 
-## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
-
-## About me <picture title="About me">
-  <source media="(prefers-color-scheme🕶️)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
-  <source media="(prefers-color-scheme:dark_dimmed)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
-  <source media="(prefers-color-scheme:dark_high_contrast)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
-   <source media="(prefers-color-scheme:dark_colorblind)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
-    <source media="(prefers-color-scheme:dark_tritanopia)" srcset="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png">
-  <img alt="about" src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50b.png">
-</picture> 
-
-
+## About me
 Eternal student motivated by education, innovation, health, art, philosophy... and development!! I am extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world. Actually I am looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
 
 ## Tech skills
@@ -38,3 +29,4 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
 
 ## Stats
 <div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=dracula" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
+</div>
