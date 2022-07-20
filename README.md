@@ -28,3 +28,4 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
 
 ## Stats
 [![STATS](https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=synthwave" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
