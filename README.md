@@ -1,4 +1,7 @@
-## ![icons8-socratic-50](https://user-images.githubusercontent.com/95602965/179907805-d27d51e8-4033-4058-acc5-4e2d67feb093.png) About me
+
+[![](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif)](https://www.linkedin.com/in/zayra-velasco)
+
+## ![ABOUT](https://user-images.githubusercontent.com/95602965/179907805-d27d51e8-4033-4058-acc5-4e2d67feb093.png) About me
 
 Eternal student motivated by education, innovation, health, art, philosophy... and development!! I am extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world. Actually I am looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
 
@@ -27,4 +30,7 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
                 rel="noopener noreferrer">![icons8-añadir-sobre-abierto-50](https://user-images.githubusercontent.com/95602965/179907815-7efc05c4-51b3-485d-8cfe-4dc5f5e33ed3.png)</a>
   
 ## Projects
-
+![icons8-plan-de-tratamiento-50](https://github.com/zayrarepositor/patients-register-2022)
+![icons8-plan-de-tratamiento-50](https://user-images.githubusercontent.com/95602965/180044751-bdb51cf8-f274-4f82-af27-8ddbf0119380.png)
+![icons8-pokeball-50](https://github.com/zayrarepositor/PIpokemons)
+![icons8-vista-frontal-del-monedero-50](https://github.com/zayrarepositor/budget-app-2022)
