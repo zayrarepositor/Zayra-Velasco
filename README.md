@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/zayra-velasco"><div style="padding-top:75.000%;position:relative;"><iframe src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div></a>
+<a href="https://www.linkedin.com/in/zayra-velasco"><div style="padding-top:75.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div></a>
 
 ## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
 
