@@ -1,7 +1,7 @@
 
 [![](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif)](https://www.linkedin.com/in/zayra-velasco)
 
-## ![ABOUT](https://user-images.githubusercontent.com/95602965/179907805-d27d51e8-4033-4058-acc5-4e2d67feb093.png) About me
+## ![ABOUT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-socratic-50.png) About me
 
 Eternal student motivated by education, innovation, health, art, philosophy... and development!! I am extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world. Actually I am looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
 
