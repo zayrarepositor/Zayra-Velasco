@@ -1,12 +1,7 @@
-# Zayra-Velasco
 
-## ![icons8-espionaje-50](https://user-images.githubusercontent.com/95602965/179907807-81498728-6c63-4c65-b7d8-ea653f5a8e6d.png) Welcome
+## ![icons8-socratic-50](https://user-images.githubusercontent.com/95602965/179907805-d27d51e8-4033-4058-acc5-4e2d67feb093.png) About me
 
-![icons8-socratic-50](https://user-images.githubusercontent.com/95602965/179907805-d27d51e8-4033-4058-acc5-4e2d67feb093.png) eternal student motivated by education, innovation, health, art, philosophy... and development!!
-
-extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world
-
-looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
+Eternal student motivated by education, innovation, health, art, philosophy... and development!! I am extremely passionate about teamwork, I value empathy and humility into collaborative work to conquer our goals and improve our world. Actually I am looking for a remote job in a great innovative company which values my skills and gives me support to keep learning. 
 
 ## ![icons8-cohete-50](https://user-images.githubusercontent.com/95602965/179907813-69915eae-794d-40ba-93c6-70e8030cf229.png) Tech skills
 ![icons8-reaccionar-nativo-50](https://user-images.githubusercontent.com/95602965/179907798-524e4fa2-9565-4085-84fd-a469f4b083f9.png)
@@ -23,12 +18,11 @@ looking for a remote job in a great innovative company which values my skills an
   
 ## ![icons8-planeta-tierra-50](https://user-images.githubusercontent.com/95602965/179907814-82db9782-1a09-4077-9a94-2761610016f0.png) Contact
 <a
-                href="https://www.linkedin.com/in/zayra-velasco-5bb934141"
+                href="https://www.linkedin.com/in/zayra-velasco"
                 target="_blank"
                 rel="noopener noreferrer">
                ![icons8-linkedin-50](https://user-images.githubusercontent.com/95602965/179907790-2f31401f-535c-48b1-91e8-e7a097d94b56.png) </a>
-              
-  <a
+               <a
                 href="mailto:zayra.contacto@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer">![icons8-añadir-sobre-abierto-50](https://user-images.githubusercontent.com/95602965/179907815-7efc05c4-51b3-485d-8cfe-4dc5f5e33ed3.png)</a>
