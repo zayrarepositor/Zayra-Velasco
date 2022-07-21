@@ -50,6 +50,6 @@ Lastest projects, continously development
 
 ## Stats
 <div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=dracula" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
-<h2>thanks!</h2>
+<h2>Thanks for visiting!</h2>
 <p align='right'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
