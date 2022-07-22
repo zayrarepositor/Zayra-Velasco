@@ -41,13 +41,13 @@ Keep contact, change world an grow up together!
 ## Projects
 Lastest projects, continously development
 * <a href="https://github.com/zayrarepositor/HenryMatchPF">Henry Match</a>
-* <a href="https://github.com/zayrarepositor/PIpokemons">Pokemons</a>
+* <a href="https://github.com/zayrarepositor/pokemons-app-2022">Pokemons App</a>
 * <a href="https://github.com/zayrarepositor/patients-register-2022">Patients Register</a>
-* <a href="https://github.com/zayrarepositor/budget-app-2022">Budget & Expenses</a>
+* <a href="https://github.com/zayrarepositor/budget-app-2022">Budget App</a>
  
 [![PATIENTS REGISTER](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-plan-de-tratamiento-50.png)](https://github.com/zayrarepositor/patients-register-2022)
 [![HENRYMATCH](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-cohete-50.png)](https://github.com/zayrarepositor/HenryMatchPF)
-[![POKEMONS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-pokeball-50.png)](https://github.com/zayrarepositor/PIpokemons)
+[![POKEMONS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-pokeball-50.png)](https://github.com/zayrarepositor/pokemons-app-2022)
 [![BUDGET](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-vista-frontal-del-monedero-50.png)](https://github.com/zayrarepositor/budget-app-2022)
 
 ## Stats
