@@ -50,6 +50,7 @@ Lastest projects, continously development
 [![HENRYMATCH](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-cohete-50.png)](https://github.com/zayrarepositor/HenryMatchPF)
 [![POKEMONS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-pokeball-50.png)](https://github.com/zayrarepositor/pokemons-app-2022)
 [![BUDGET](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-vista-frontal-del-monedero-50.png)](https://github.com/zayrarepositor/budget-app-2022)
+[![DISNEY API](https://user-images.githubusercontent.com/95602965/181824845-aecbc0ff-ad21-468c-b6a0-d8a82171cb36.png)](https://github.com/zayrarepositor/disney-api)
 
 ## Stats
 <div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=dracula" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
