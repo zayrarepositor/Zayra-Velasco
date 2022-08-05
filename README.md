@@ -9,7 +9,7 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
 
 ## Tech skills
 I have worked with javascript, html and css. 
-* Front with React, Vite, Redux, Taildwindcss and Material UI. 
+* Front with React, Vite, Redux, Taildwindcss, Styled Components and Material UI. 
 * Back with Node, Express, Sequelize and MongoDB.
 
 ![REACT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-reaccionar-nativo-50.png)
@@ -45,16 +45,19 @@ Lastest projects, continously development
 * <a href="https://github.com/zayrarepositor/pokemons-app-2022">Pokemons App</a>
 * <a href="https://github.com/zayrarepositor/patients-register-2022">Patients Register</a>
 * <a href="https://github.com/zayrarepositor/budget-app-2022">Budget App</a>
+* <a href="https://github.com/zayrarepositor/astro-api-2022">Astro Api</a>
  
 [![PATIENTS REGISTER](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-plan-de-tratamiento-50.png)](https://github.com/zayrarepositor/patients-register-2022)
 [![HENRYMATCH](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-cohete-50.png)](https://github.com/zayrarepositor/HenryMatchPF)
 [![POKEMONS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-pokeball-50.png)](https://github.com/zayrarepositor/pokemons-app-2022)
 [![BUDGET](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-vista-frontal-del-monedero-50.png)](https://github.com/zayrarepositor/budget-app-2022)
 [![DISNEY API](https://user-images.githubusercontent.com/95602965/181824845-aecbc0ff-ad21-468c-b6a0-d8a82171cb36.png)](https://github.com/zayrarepositor/disney-api)
+[![ASTRO API](https://user-images.githubusercontent.com/95602965/183138793-f525b5bf-e137-41e1-b934-3d511b163a08.png)](https://github.com/zayrarepositor/astro-api-2022)
 
 ## Stats
 <div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=dracula" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
 <h2>Thanks for visiting!</h2>
 <p align='right'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 
