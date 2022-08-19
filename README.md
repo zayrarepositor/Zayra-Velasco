@@ -32,27 +32,29 @@ I am a natural foodie into a INTJ-T personality! My skills are logical thinking,
 
 ## Contact
 Keep contact, change world an grow up together! 
+* <a href="https://github.com/zayrarepositor/portfolio-2022/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/zayra-velasco">LinkedIn</a>  
 * <a href="mailto:zayra.contacto@gmail.com">Mail</a>
 
 [![LINKEDIN](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-linkedin-50.png)](https://www.linkedin.com/in/zayra-velasco)
 [![MAIL](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-añadir-sobre-abierto-50.png)](mailto:zayra.contacto@gmail.com)
+[![PORTFOLIO](https://user-images.githubusercontent.com/95602965/185551905-eb0edece-fb5d-41d7-9e2a-c078509b4e64.png)](https://github.com/zayrarepositor/portfolio-2022/)
 
 ## Projects
 Lastest projects, continously development
+* <a href="https://github.com/zayrarepositor/astro-api-2022">Astro Api</a>
 * <a href="https://github.com/zayrarepositor/disney-api">Disney Api</a>
 * <a href="https://github.com/zayrarepositor/HenryMatchPF">Henry Match</a>
 * <a href="https://github.com/zayrarepositor/pokemons-app-2022">Pokemons App</a>
 * <a href="https://github.com/zayrarepositor/patients-register-2022">Patients Register</a>
 * <a href="https://github.com/zayrarepositor/budget-app-2022">Budget App</a>
-* <a href="https://github.com/zayrarepositor/astro-api-2022">Astro Api</a>
  
+[![ASTRO API](https://user-images.githubusercontent.com/95602965/183138793-f525b5bf-e137-41e1-b934-3d511b163a08.png)](https://github.com/zayrarepositor/astro-api-2022)
+[![DISNEY API](https://user-images.githubusercontent.com/95602965/181824845-aecbc0ff-ad21-468c-b6a0-d8a82171cb36.png)](https://github.com/zayrarepositor/disney-api)
 [![PATIENTS REGISTER](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-plan-de-tratamiento-50.png)](https://github.com/zayrarepositor/patients-register-2022)
 [![HENRYMATCH](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-cohete-50.png)](https://github.com/zayrarepositor/HenryMatchPF)
 [![POKEMONS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-pokeball-50.png)](https://github.com/zayrarepositor/pokemons-app-2022)
 [![BUDGET](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-vista-frontal-del-monedero-50.png)](https://github.com/zayrarepositor/budget-app-2022)
-[![DISNEY API](https://user-images.githubusercontent.com/95602965/181824845-aecbc0ff-ad21-468c-b6a0-d8a82171cb36.png)](https://github.com/zayrarepositor/disney-api)
-[![ASTRO API](https://user-images.githubusercontent.com/95602965/183138793-f525b5bf-e137-41e1-b934-3d511b163a08.png)](https://github.com/zayrarepositor/astro-api-2022)
 
 ## Stats
 <div style="padding-top:75.000%;position:relative;"><img src="https://github-readme-stats.vercel.app/api?username=zayrarepositor&count_private=true&show_icons=true&theme=dracula" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
