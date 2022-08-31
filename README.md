@@ -32,13 +32,13 @@ I am a natural foodie into a INTJ-T personality! My skills are logical thinking,
 
 ## Contact
 Keep contact, change world an grow up together! 
-* <a href="https://github.com/zayrarepositor/portfolio-2022/">Portfolio</a>
+* <a href="https://zayra-velasco-developer.netlify.app/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/zayra-velasco">LinkedIn</a>  
 * <a href="mailto:zayra.contacto@gmail.com">Mail</a>
 
 [![LINKEDIN](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-linkedin-50.png)](https://www.linkedin.com/in/zayra-velasco)
 [![MAIL](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-añadir-sobre-abierto-50.png)](mailto:zayra.contacto@gmail.com)
-[![PORTFOLIO](https://user-images.githubusercontent.com/95602965/185551905-eb0edece-fb5d-41d7-9e2a-c078509b4e64.png)](https://github.com/zayrarepositor/portfolio-2022/)
+[![PORTFOLIO](https://user-images.githubusercontent.com/95602965/185551905-eb0edece-fb5d-41d7-9e2a-c078509b4e64.png)](https://zayra-velasco-developer.netlify.app/)
 
 ## Projects
 Lastest projects, continously development
