@@ -8,17 +8,20 @@ Eternal student motivated by education, innovation, health, art, philosophy... a
 <a href="https://www.linkedin.com/in/zayra-velasco"><div style="padding-top:25.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif" width="100%" height="20%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div></a>
 
 ## Tech skills
-I have worked with javascript, html and css. 
+I have worked with javascript, typescript, html and css. 
 * Front with React, Vite, Redux, Taildwindcss, Styled Components and Material UI. 
-* Back with Node, Express, Sequelize and MongoDB.
+* Back with Node, Express, Nest, Sequelize and Mongoose.
 
+![EXPRESS](https://user-images.githubusercontent.com/95602965/208583196-7db044f6-b5fc-4a7e-829c-6066f1721831.png)
 ![REACT](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-reaccionar-nativo-50.png)
 ![REDUX](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-redux-50.png)
 ![CSS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-css3-50.png)
 ![HTML](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-html-5-50.png)
 ![JS](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-javascript-50.png)
+![TS](https://user-images.githubusercontent.com/95602965/208582612-a287cfad-9c1c-4028-b0d3-add09b4caf86.png)
 
 <p align='center'>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayrarepositor&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5">
 </p>
 
@@ -31,7 +34,7 @@ I am a natural foodie into a INTJ-T personality! My skills are logical thinking,
 ![DESARROLLO](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-habilidad-de-desarrollo-50.png)
 
 ## Contact
-Keep contact, change world an grow up together! 
+Keep contact, change world and grow up together! 
 * <a href="https://zayra-velasco-developer.netlify.app/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/zayra-velasco">LinkedIn</a>  
 * <a href="mailto:zayra.contacto@gmail.com">Mail</a>
@@ -42,7 +45,9 @@ Keep contact, change world an grow up together!
 
 ## Projects
 Lastest projects, continously development
-* <a href="https://github.com/zayrarepositor/OT267-server">Backend server</a>
+
+* <a href="https://github.com/zayrarepositor/nest-mongo-2022">Tasks server</a>
+* <a href="https://github.com/zayrarepositor/OT267-server">ONG server</a>
 * <a href="https://github.com/zayrarepositor/astro-api-2022">Astro Api</a>
 * <a href="https://github.com/zayrarepositor/disney-api">Disney Api</a>
 * <a href="https://github.com/zayrarepositor/HenryMatchPF">Henry Match</a>
@@ -50,7 +55,8 @@ Lastest projects, continously development
 * <a href="https://github.com/zayrarepositor/patients-register-2022">Patients Register</a>
 * <a href="https://github.com/zayrarepositor/budget-app-2022">Budget App</a>
 
-[![BACKEND SERVER](https://user-images.githubusercontent.com/95602965/192583151-07d55e76-1e21-49e0-94b9-23896ec81abb.png)](https://github.com/zayrarepositor/OT267-server)
+[![TASKS SERVER](https://user-images.githubusercontent.com/95602965/208584048-5796ab5d-1b45-4dec-9f69-de65ae7b93ca.png)](https://github.com/zayrarepositor/nest-mongo-2022)
+[![ONG SERVER](https://user-images.githubusercontent.com/95602965/192583151-07d55e76-1e21-49e0-94b9-23896ec81abb.png)](https://github.com/zayrarepositor/OT267-server)
 [![ASTRO API](https://user-images.githubusercontent.com/95602965/183138793-f525b5bf-e137-41e1-b934-3d511b163a08.png)](https://github.com/zayrarepositor/astro-api-2022)
 [![DISNEY API](https://user-images.githubusercontent.com/95602965/181824845-aecbc0ff-ad21-468c-b6a0-d8a82171cb36.png)](https://github.com/zayrarepositor/disney-api)
 [![PATIENTS REGISTER](https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/icons8-plan-de-tratamiento-50.png)](https://github.com/zayrarepositor/patients-register-2022)
